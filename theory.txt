@@ -1,0 +1,37 @@
+
+
+
+================ Conditional Statement ==================
+if(condition){
+    //Statement........
+}
+
+
+eles if(condition)
+//Statement
+
+else if(condition){
+      //Statement .......
+}
+
+else if (condition){
+    //Statement.....
+}
+
+else{
+    //Statement......
+}
+
+  
+
+
+
+
+Rahim=>  Bike  => Park
+Karim => Car   => Tour
+Rafiq => Cycle => Field
+Otherwise => Sleep
+
+
+
+
